@@ -14,9 +14,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
 ## String
 |  |
 | ------- |
 | [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
