@@ -9,3 +9,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
+## String
+|  |
+| ------- |
+| [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
+<!---LeetCode Topics End-->
