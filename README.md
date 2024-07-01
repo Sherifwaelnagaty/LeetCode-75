@@ -28,4 +28,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
