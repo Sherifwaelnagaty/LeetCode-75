@@ -40,4 +40,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0969-number-of-recent-calls) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
