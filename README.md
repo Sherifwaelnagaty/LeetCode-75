@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
 ## Design
 |  |
@@ -48,8 +49,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
