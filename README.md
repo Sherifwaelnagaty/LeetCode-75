@@ -59,4 +59,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
+## Array
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
