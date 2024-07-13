@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -60,11 +61,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -98,4 +101,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
