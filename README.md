@@ -45,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
@@ -72,16 +74,28 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
