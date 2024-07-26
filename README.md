@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -86,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -115,4 +118,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
