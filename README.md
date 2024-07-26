@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
 ## String
@@ -26,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
@@ -70,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
@@ -90,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
@@ -125,4 +130,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
