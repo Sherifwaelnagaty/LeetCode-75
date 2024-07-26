@@ -1,5 +1,5 @@
 class Solution:
-    def isNStraightHand(hand, W):
+    def isNStraightHand(self,hand, W):
         if len(hand) % W != 0:
             return False
         
