@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
 |  |
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0990-verifying-an-alien-dictionary) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
