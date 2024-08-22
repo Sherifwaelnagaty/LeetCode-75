@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0990-verifying-an-alien-dictionary) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -162,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -186,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
