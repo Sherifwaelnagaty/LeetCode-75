@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/1274-number-of-days-between-two-dates) |
 ## Bit Manipulation
@@ -36,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -49,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
@@ -198,4 +201,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
