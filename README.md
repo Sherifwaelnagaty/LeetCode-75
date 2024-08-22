@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
@@ -145,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
@@ -159,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
@@ -166,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
