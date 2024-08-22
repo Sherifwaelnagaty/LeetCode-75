@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
@@ -162,6 +163,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
@@ -170,6 +172,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0112-path-sum](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
