@@ -144,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,4 +153,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/Sherifwaelnagaty/ProblemSolving/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
